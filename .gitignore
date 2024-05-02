@@ -1,0 +1,4 @@
+venv/
+
+crm/crm/__pycache__/
+crm/accounts/migrations/__pycache__
